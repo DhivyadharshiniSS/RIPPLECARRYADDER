@@ -26,8 +26,8 @@ STEP:7 compare the output with truth table.
 ![image](https://github.com/RESMIRNAIR/RIPPLECARRYADDER/assets/154305926/3208d46f-2fd4-4d6a-987f-63102c173ca0)
 # Program
 ```
-Developed by: Trisha S
-Register number: 212222060280
+Developed by: Dhivyadharshini S
+Register number: 212222060051
 ```
 ```
 module fa(a,b,c,sum,carry);
@@ -49,7 +49,7 @@ fa fa4(a[3],b[3],c3,sum[3],cout);
 endmodule
 ```
 # Output
-![Screenshot (54)](https://github.com/trishasailendran/RIPPLECARRYADDER/assets/87655678/86c54a78-6f7c-43f4-ae97-8f61ff07e717)
+![image](https://github.com/DhivyadharshiniSS/RIPPLECARRYADDER/assets/166376977/35d99b7a-4c3d-4832-9c7e-7ea827c1c6ef)
 # Result
 Thus the simulation and synthesis of Ripplecarryadder using vivado 2023.2 is successfully executed and verified.
 
